@@ -2,7 +2,7 @@
 ## Overview
 This repository contains a business presentation for a new bikesharing company based in Des Moines, Iowa. Using data from the NYC CitiBike scheme, I have created a number of visualizations to better understand the bikesharing business model and to highlight the opportunity to invest in a similar scheme in Iowa. 
 
-The analysis was completed using csv bikesharing data from NYC in the month of August 2019, as well as the software programs Tableau, Jupyter Notebook and the Pandas library. My [Tableau Story](https://public.tableau.com/profile/luke.newell#!/vizhome/NYCCitibikeAnalysis_16115378960730/BikesharingStory "Check out my Tableau Story here!") contains the interactive charts seen below. The presentation is publically accessible, so please do take the time to check it out!
+The analysis was completed using bikesharing data from NYC in the month of August 2019, as well as the software programs Tableau, Jupyter Notebook and the Pandas library. My [Tableau Story](https://public.tableau.com/profile/luke.newell#!/vizhome/NYCCitibikeAnalysis_16115378960730/BikesharingStory "Check out my Tableau Story here!") contains the interactive charts seen below. The presentation is publically accessible, so please do take the time to check it out!
 ## Results
 ### Dashboard
 In the month of August, over 2.3 million rides were completed in NYC. The majority of customers using the service are regular subscribers (over 80%) with men being the primary user demographic (over 65%). Younger people tend to use the service more than older people, but there is strong demand across a wide variety of age groups. 
@@ -15,12 +15,12 @@ This chart shows that the most popular length of time for a bike rental is 4-6 h
 ![tripduration](https://github.com/luke-c-newell/Bikesharing/blob/main/images/tripduration.png "tripduration.png")
 
 ### Checkout Times by Gender
-This chart shows the length of bike rental for each gender. Some users did not disclose their gender and they are marked as unknown. The most popular rental duration for male users is 4-5 hours while for female users, the most popular duration was for 5-6 hours. As the most common rental time is around 5 hours for both men and women, this suggests that there is strong demand for bicycle rentals over a long period of time. This information will allow us to forecast demand for users in Des Moines and plan the number of bicyles required to maintain an efficient service.
+This chart shows the length of bike rentals for each gender. Some users did not disclose their gender and they are marked as unknown. The most popular rental duration for male users is 4-5 hours while for female users, the most popular duration was for 5-6 hours. As the most common rental time is around 5 hours for both men and women, this suggests that there is strong demand for bicycle rentals over a long period of time. This information will allow us to forecast demand for users in Des Moines and plan the number of bicyles required to maintain an efficient service.
 
 ![tripbygender](https://github.com/luke-c-newell/Bikesharing/blob/main/images/tripbygender.png "tripbygender.png")
 
 ### Weekday Trips per Hour
-CitiBike rentals were most popular during the hours of 8am-9am and 5pm-7pm on Monday-Friday. Weekend hours were a lot more spread out with a steady stream of rentals from 10am to 6pm. This suggests that commuters are the most regular users of the service. This will allow us to market the service to commuters in the Des Moines area, who may be looking for a more eco-friendly and healthy mode of transport.
+CitiBike rentals were most popular during the hours of 8am-9am and 5pm-7pm, Monday-Friday. Weekend rentals were spread out across the day, with a steady stream of rentals from 10am to 6pm. As the darkest areas of the chart are during commuter hours, this suggests that commuters are the most regular users of the service. This will allow us to market the service to workers in the Des Moines area, who may be looking for a more eco-friendly and healthy mode of transport.
 
 ![tripsperhour](https://github.com/luke-c-newell/Bikesharing/blob/main/images/tripsperhour.png "tripsperhour.png")
 
