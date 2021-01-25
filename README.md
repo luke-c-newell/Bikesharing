@@ -42,17 +42,21 @@ This chart shows the most popular rental times for all users. The morning and af
 ### Top Starting and Ending Locations
 These charts show the most popular starting and ending locations for rentals in NYC. The number of rides is proportional to the size and color of each spot. The highest density of rides occur in Central Manhattan, with the number of rides slowly decreasing as you move away from tourism and business centers.
 
-Starting Locations
+#### Starting Locations
 ![startlocations](https://github.com/luke-c-newell/Bikesharing/blob/main/images/startlocations.png "startlocations.png")
 
-Ending Locations
+#### Ending Locations
 ![endlocations](https://github.com/luke-c-newell/Bikesharing/blob/main/images/endlocations.png "endlocations.png")
 
-### Top Bike Usage
+### Number of Rides per Bike
+Each mark in this chart represents an individual rental bike and the number of times it has been checked out during the month of August. The bikes highlighted in red have been used over 300 times in the month.
+
 ![maintenance](https://github.com/luke-c-newell/Bikesharing/blob/main/images/maintenance.png "maintenance.png")
 
 ## Summary
-
+Overall, 
 ### Additional Visualizations
-1. Distance between start and end locations
-2. Average Number of Trips by customer type
+To expand the analysis, there are a couple of additional charts that I could create.
+
+1. A chart showing the distance between start and end locations. This would allow us to understand how far the bikes travel during usage and plan any operational requirements for moving bikes between locations.
+2. A chart showing the average number of trips by customer type. This would allow us to plan sales and marketing campaigns to ensure that we offer price plans that best serve our long term subscribers and short term customers.
