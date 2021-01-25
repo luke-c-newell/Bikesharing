@@ -1,7 +1,7 @@
 # Bikesharing
-
+[Tableau Story](https://public.tableau.com/profile/luke.newell#!/vizhome/NYCCitibikeAnalysis_16115378960730/BikesharingStory "Check out my Tableau Story here!")
 ## Overview Dashboard
-[dashboard](https://github.com/luke-c-newell/Bikesharing/blob/main/images/dashboard.png "dashboard")
+![dashboard](https://github.com/luke-c-newell/Bikesharing/blob/main/images/dashboard.png "dashboard.png")
 
 ### Checkout Times
 
